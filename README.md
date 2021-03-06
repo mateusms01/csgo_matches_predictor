@@ -1,7 +1,7 @@
-### CSGO Predictor
+### CSGO Matches Predictor
 
 Current version is empty.
-In development hltv_data_extractor.
+In development _hltv_data_extractor_.
 
 # setup
 `pipenv update`
