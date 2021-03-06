@@ -1,10 +1,10 @@
-### CSGO Matches Predictor
+## CSGO Matches Predictor
 
 Current version is empty.
 In development _hltv_data_extractor_.
 
-# setup
+#### Setup
 `pipenv update`
 
-# run
+#### Run
 `python.exe main.py`
